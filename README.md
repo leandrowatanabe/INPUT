@@ -2,7 +2,7 @@
 
 Repositório das atividades do curso Input da codar.me
 
-# Tópicos:
+# Tópicos: 
+- html
 
-## html
-último update [28/06/2022]
+### último update [28/06/2022]
