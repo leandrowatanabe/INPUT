@@ -5,3 +5,4 @@
 - Aprendendo e aplicando comentários no HTML - [28/06/2022]
 - Entendendo semântica e tags - [28/06/2022]
 - Implementando favicon e imagem - [28/06/2022]
+- Entendendo Hyperlins externos e internos- [28/06/2022]
