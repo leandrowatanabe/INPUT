@@ -6,3 +6,4 @@
 - Entendendo semântica e tags - [28/06/2022]
 - Implementando favicon e imagem - [28/06/2022]
 - Entendendo Hyperlins externos e internos- [28/06/2022]
+- Exercício 1: [Bio](github.com/leandrowatanabe/INPUT/blob/main/HTML/bio.html) - [28/06/2022]
