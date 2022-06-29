@@ -11,7 +11,7 @@ div{
     width: 100px;
     height: 100px;
     margin: 15px;
-    padding: 30px
+    padding: 30px;  
 }
 .border {
     border: 5px solid #000;
@@ -20,4 +20,7 @@ div{
     border-color: #000000;
     border-style: solid;
     */
+}
+.radius {
+    border-radius: 12px 5px 30px 33px;
 }

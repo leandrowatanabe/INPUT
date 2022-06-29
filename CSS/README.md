@@ -5,3 +5,4 @@
 - Entendo display Block e Inline - [29/06/2022]
 - Aplicando espaçamento - [29/06/2022]
 - Aplicando bordas - [29/06/2022]
+- Aplicando bordas arredondadas - [29/06/2022]
