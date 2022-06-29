@@ -7,3 +7,4 @@
 - Aplicando bordas - [29/06/2022]
 - Aplicando bordas arredondadas - [29/06/2022]
 - Exercício 1: Bio - [29/06/2022]
+- Exercício 2: Tabela copa do mundo - [29/06/2022]

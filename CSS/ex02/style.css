@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(37, 40, 61);
+    font-size: 25px;
+    padding: 22px;
+}
+
+h1{
+    color:rgb(239, 217, 206);
+    font-size: 52px
+}
+
+h2{
+    padding: 15px 0;
+    color: rgb(206, 162, 172);
+    font-size: 35px
+}
+
+
+table{
+    color:rgb(37, 40, 61);
+    background-color: rgb(166, 117, 161);
+    border-radius: 10px;
+}
+
+.times{
+    border-top: 1px solid rgb(239, 217, 206);
+}
+
+th, td{
+    padding:7px;
+}
