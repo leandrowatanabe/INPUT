@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html  lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, inicial-scake=1.0" />
+
+        <link rel="icon" type="image/png" href="./imgs/custard_1f36e.png"/>
+
+        <title> Aprendendo CSS </title>
+
+        <link rel="stylesheet" type="text/css" href="./style.css" />
+
+        <style type="text/css">
+            *{
+                color: rgb(12, 12, 222)
+            }
+            p, h1{
+                color: rgb(122, 12, 222)
+            }
+            #titulo{
+                background-color: rgb(222,12,12);    
+            }
+            .paragraph1{
+                font-size: 22px;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1 id="titulo"> Meu caderno bagunçado </h1>
+
+        <p> Esta página HTML é como se fosse meu caderno de anotações, meio bagunçado mas para acompanhar as aulas</p>
+        <hr />
+        
+        <!-- Formas de se usar o CSS -->
+        <h2 style="color:rgb(5,5,125); font-size: 50px;"> Inline CSS </h2>
+
+        <p style="background-color: rgb(5,5,125); color:rgb(225,225,225)"> 
+            Uma das formas de se utilizar o CSS é dentro do próprio HTML de forma inline 
+        </p>
+
+        <p > 
+            Outra forma é declarando um folha de estilos na head do HTML utilizando seletores. Os seletores podem se Tags, Nome de Classes, ou IDs.
+            O uso de IDs tem um carater semântico de exclusividade, quando existe a necessidade de aplicar o mesmo estilo para mais de um elemento separado se usa as Classes.
+        </p>
+
+        <p class="paragraph2"> 
+            Além disso é possível importar uma folha de estilo externar que aplica as regras da mesma forma. Essa importação é feita como um link externo ao arquivo de estilização.
+        </p>
+
+        <p class="paragraph1"> 
+            Hierarquicamente, a preferência é interna, então a inline tem prioridade máxima na estilização. Logo em seguida vem a folha declarada interna ao HTML e por último o arquivo externo.
+        </p>
+        
+        <hr />
+       
+    
+    </body>
+</html>
