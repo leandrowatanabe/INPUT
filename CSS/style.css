@@ -13,3 +13,11 @@ div{
     margin: 15px;
     padding: 30px
 }
+.border {
+    border: 5px solid #000;
+    /*
+    border-width: 5px;
+    border-color: #000000;
+    border-style: solid;
+    */
+}
