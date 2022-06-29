@@ -1,0 +1,39 @@
+body{
+    padding: 10px;
+    background-color: rgb(34, 9, 1);
+    color: rgb(188, 57, 8);
+}
+
+.profile-pic{
+    border: 7px rgb(246, 170, 28) solid;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    width: 700px;
+    display: flex;
+}
+
+.info{
+    display: block;
+    padding-left: 10px;
+}
+
+h1{
+    font-size: 55px;
+    color: rgb(246, 170, 28);
+}
+
+p{
+    margin: 15px 0;
+}
+
+li{
+    color: rgb(148, 27, 12)
+}
+
+a{
+    color: rgb(188, 57, 8);
+}

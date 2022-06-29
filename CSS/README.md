@@ -6,3 +6,4 @@
 - Aplicando espaçamento - [29/06/2022]
 - Aplicando bordas - [29/06/2022]
 - Aplicando bordas arredondadas - [29/06/2022]
+- Exercício 1: Bio - [29/06/2022]
