@@ -1,0 +1,26 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400&display=swap');
+
+#home{
+    width: 380px;
+    padding: 30px;
+}
+
+.title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+}
+
+p{
+    font-family: 'Titillium Web', sans-serif;
+    padding: 10px 0;
+}
+
+strong{
+    font-weight: 700;
+}
+
+em{
+    font-style: italic
+}
