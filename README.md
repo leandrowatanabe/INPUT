@@ -5,5 +5,6 @@ Repositório das atividades do curso Input da codar.me
 # Tópicos: 
 - html
 - css
+- tipografia
 
-### último update [29/06/2022]
+### último update [18/07/2022]
