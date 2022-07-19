@@ -5,3 +5,4 @@
 - Entendendo espaço entre elementos - [19/07/2022]
 - Entendendo quebra de linhas - [19/07/2022]
 - Entendendo itens com tamanho flexivel - [19/07/2022]
+- Ordenando elementos específicos - [19/07/2022]
