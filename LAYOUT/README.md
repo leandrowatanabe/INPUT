@@ -6,3 +6,4 @@
 - Entendendo quebra de linhas - [19/07/2022]
 - Entendendo itens com tamanho flexivel - [19/07/2022]
 - Ordenando elementos específicos - [19/07/2022]
+- Exercício 01: Montando uma estrutura de layout - [19/07/2022]

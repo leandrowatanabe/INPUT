@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html  lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, inicial-scake=1.0" />
+
+        <link rel="icon" type="image/png" href="./imgs/custard_1f36e.png"/>
+
+        <title> Flexbox </title>
+
+
+       <style>
+            html, body{
+                margin: 0;
+                height: 100%;
+            }
+            #container{
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+            }
+            
+            #header{
+                background: rgba(242, 219, 92, 1);
+                padding: 16px;
+            }
+            #main{
+                display: flex;
+                flex: 1;
+            }
+
+            #sidebar{
+                width: 85px;
+                background: rgb(112, 57, 109);
+                padding: 16px;
+            }
+
+            #content{
+                flex: 1;
+                background: rgb(112, 57, 57);
+                padding: 16px;
+            }
+            #footer{
+                background: rgb(92, 182, 242);
+                padding: 16px;
+            }
+       </style>
+
+    </head>
+    
+    <body>
+        <div id="container">
+            <div id="header"> Menu Topo</div>
+            <div id="main">
+                <div id="sidebar"> Sidebar </div>
+                <div id="content"> Conteúdo </div>
+            </div>
+            <div id="footer"> Rodapé </div>
+        </div>
+    </body>
+</html>
