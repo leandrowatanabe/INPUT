@@ -8,3 +8,4 @@
 - Ordenando elementos específicos - [19/07/2022]
 - Exercício 01: Montando uma estrutura de layout - [19/07/2022]
 - Desafio 1 e 2: Montando estruturas diferentes de layout - [19/07/2022]
+- Desafio 3: Criando um pequeno grid com Flexbox - [19/07/2022]

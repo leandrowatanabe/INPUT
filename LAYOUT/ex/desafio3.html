@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html  lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, inicial-scake=1.0" />
+
+        <link rel="icon" type="image/png" href="../../HTML/imgs/custard_1f36e.png"/>
+
+        <title> Desafio 03 </title>
+
+
+       <style>
+            html, body{
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .item{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #7572721f;
+                border-radius: 15px;
+                margin: 1px;
+            }
+
+            span{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 100%;
+                background: #fff;
+                height: 25px;
+                width: 25px;
+            }
+
+            #container{
+                height: 600px;
+                width: 400px;
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+            .zero{
+                width: 198px;
+                height: 198px;
+            }
+            
+            #second-colum{
+                width: 200px;
+                height: 200px;
+                flex-wrap: wrap;
+                display: flex;
+            }
+
+            .one{
+                width: 198px;
+                height: 98px;
+            }
+
+            .two{
+                width: 98px;
+                height: 98px;
+            }
+
+            .four{
+                width: 398px;
+                height: 248px;
+            }
+            
+            .five{
+                height: 148px;
+                width: 198px;
+            }
+       </style>
+
+    </head>
+    
+    <body>
+        <div id="container">
+
+            <div class="zero item"><span>0</span></div>
+            <div id="second-colum">
+                <div class="one item"><span>1</span></div>
+                <div class="two item"><span>2</span></div>
+                <div class="two item"><span>3</span></div>
+            </div>
+            <div class="four item"><span>4</span></div>
+            <div class="five item"><span>5</span></div>
+            <div class="five item"><span>6</span></div>
+        </div>
+    </body>
+</html>
