@@ -36,3 +36,22 @@ p{
     height: 20px;
 }
 
+#container-column-align{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    background: rgb(100,100,100);
+    height: 200px;
+    padding: 40px;
+}
+
+#container-row-align{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    background: rgb(100,100,100);
+    height: 200px;
+    padding: 40px;
+}
