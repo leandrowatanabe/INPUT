@@ -6,5 +6,6 @@ Repositório das atividades do curso Input da codar.me
 - html
 - css
 - tipografia
+- layout
 
-### último update [18/07/2022]
+### último update [19/07/2022]
