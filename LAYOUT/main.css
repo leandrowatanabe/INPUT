@@ -14,3 +14,25 @@ p{
     font-family: 'Titillium Web', sans-serif;
     padding: 10px 0;
 }
+
+#container-column{
+    display: flex;
+    flex-direction: column;
+    background: rgb(100,100,100);
+    padding: 40px;
+}
+
+#container-row{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(100,100,100);
+    padding: 40px;
+}
+
+.item{
+    background: rgb(100,255,100);
+    padding: 20px;
+    border: 2px solid rgb(0,0,0);
+    height: 20px;
+}
+
