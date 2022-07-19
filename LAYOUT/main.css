@@ -55,3 +55,16 @@ p{
     height: 200px;
     padding: 40px;
 }
+
+#container-around{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(100,100,100);
+    padding: 40px;
+}
+#container-between{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(100,100,100);
+    padding: 40px;
+}
