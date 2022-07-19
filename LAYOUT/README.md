@@ -7,3 +7,4 @@
 - Entendendo itens com tamanho flexivel - [19/07/2022]
 - Ordenando elementos específicos - [19/07/2022]
 - Exercício 01: Montando uma estrutura de layout - [19/07/2022]
+- Desafio 1 e 2: Montando estruturas diferentes de layout - [19/07/2022]
