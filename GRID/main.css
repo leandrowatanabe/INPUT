@@ -15,9 +15,14 @@ p{
     padding: 10px 0;
 }
 
-#container {
+#container-column {
     display: grid;
     grid-template-columns: 2fr 1fr;
+}
+
+#container-row{
+    display: grid;
+    grid-template-rows: 1fr 200px 3fr
 }
 
 .item{
