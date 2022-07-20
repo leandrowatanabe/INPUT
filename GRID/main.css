@@ -53,9 +53,20 @@ p{
 .item1{
     grid-column-start: 1;
     grid-column-end: 3;
+    grid-area: teste1;
 }
 
-.item4{
+.c{
     grid-column: 2 / 3;
     grid-row: 2 / 4;
+}
+
+#container-area{
+    display: grid;
+    grid-template-areas:
+     "teste1 teste1 teste1 a"
+     "b b b a"
+     "c d d e"
+     "f f f f";
+    gap: 4px;
 }
