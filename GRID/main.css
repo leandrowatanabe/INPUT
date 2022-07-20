@@ -25,6 +25,12 @@ p{
     grid-template-rows: 1fr 200px 3fr
 }
 
+#container-auto{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-auto-rows: minmax(205px, auto);
+}
+
 .item{
     background: #ccc
 }
