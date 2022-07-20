@@ -39,6 +39,23 @@ p{
     gap: 4px;
 }
 
+#container-position{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(4, 50px);
+    gap: 4px;
+}
+
 .item{
     background: #ccc
+}
+
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.item4{
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
 }
