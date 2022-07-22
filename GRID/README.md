@@ -5,3 +5,4 @@
 - Entendendo espaçamento entre itens do grid - [20/07/2022]
 - Manipulando posições de elementos - [20/07/2022]
 - Entendendo espaços nomeados - [20/07/2022]
+- Desafio: montando um layout - [21/07/2022]

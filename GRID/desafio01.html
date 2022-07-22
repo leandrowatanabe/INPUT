@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html  lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, inicial-scake=1.0" />
+
+        <link rel="icon" type="image/png" href="../../HTML/imgs/custard_1f36e.png"/>
+
+        <title> Desafio 03 </title>
+
+
+       <style>
+            html, body{
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .item{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #7572721f;
+                border-radius: 15px;
+            }
+
+            span{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 100%;
+                background: #fff;
+                height: 25px;
+                width: 25px;
+            }
+
+            #container{
+                height: 600px;
+                width: 400px;
+                display: grid;
+                gap: 1px;
+                grid-template-areas: 
+                "zero zero one one"
+                "zero zero two three"
+                "four four four four"
+                "five five six six";
+            }
+
+            .zero{
+                grid-area: zero;
+                width: 198px;
+                height: 198px;
+            }
+
+            .one{
+                grid-area: one;
+                width: 198px;
+                height: 98px;
+            }
+
+            .two{
+                grid-area: two;
+                width: 98px;
+                height: 98px;
+            }
+
+            .three{
+                grid-area: three;
+                width: 98px;
+                height: 98px;
+            }
+
+            .four{
+                grid-area: four;
+                width: 398px;
+                height: 248px;
+            }
+            
+            .five{
+                grid-area: five;
+                height: 148px;
+                width: 198px;
+            }
+            .six{
+                grid-area: six;
+                height: 148px;
+                width: 198px;
+            }
+       </style>
+
+    </head>
+    
+    <body>
+        <div id="container">
+            <div class="zero item"><span>0</span></div>
+            <div class="one item"><span>1</span></div>
+            <div class="two item"><span>2</span></div>
+            <div class="three item"><span>3</span></div>
+            <div class="four item"><span>4</span></div>
+            <div class="five item"><span>5</span></div>
+            <div class="six item"><span>6</span></div>
+        </div>
+    </body>
+</html>
