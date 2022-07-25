@@ -1,1 +1,13 @@
 @import url('./reset.css');
+
+.parent{
+    background: rgb(12,12,12);
+    height: 300px;
+    width: 350px;
+}
+
+.children{
+    background: rgb(125,125,125);
+    height: 33%;
+    width: 50%;
+}
