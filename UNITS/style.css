@@ -45,3 +45,15 @@ body{
     height: 1rem;
     width: 0.3rem;
 }
+
+.parent-view{
+    background: rgb(12,12,12);
+    height: 33vh;
+    width: 10vw;
+}
+
+.children-view{
+    background: rgb(125,125,125);
+    height: 33vh;
+    width: 5vw;
+}
