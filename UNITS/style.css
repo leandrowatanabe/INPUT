@@ -1,5 +1,13 @@
 @import url('./reset.css');
 
+html{
+    font-size: 125px;
+}
+
+body{
+    font-size: 20px;
+}
+
 .parent-porcentage{
     background: rgb(12,12,12);
     height: 300px;
@@ -23,4 +31,17 @@
     background: rgb(125,125,125);
     height: 1em;
     width: 0.3em;
+}
+
+.parent-rem{
+    background: rgb(12,12,12);
+    height: 300px;
+    width: 350px;
+    font-size: 200px;
+}
+
+.children-rem{
+    background: rgb(125,125,125);
+    height: 1rem;
+    width: 0.3rem;
 }
