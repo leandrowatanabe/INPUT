@@ -1,13 +1,26 @@
 @import url('./reset.css');
 
-.parent{
+.parent-porcentage{
     background: rgb(12,12,12);
     height: 300px;
     width: 350px;
 }
 
-.children{
+.children-porcentage{
     background: rgb(125,125,125);
     height: 33%;
     width: 50%;
+}
+
+.parent-em{
+    background: rgb(12,12,12);
+    height: 300px;
+    width: 350px;
+    font-size: 200px;
+}
+
+.children-em{
+    background: rgb(125,125,125);
+    height: 1em;
+    width: 0.3em;
 }
