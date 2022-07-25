@@ -6,7 +6,7 @@ Repositório das atividades do curso Input da codar.me
 - html
 - css
 - tipografia
-- flexbox
-- grid
+- flex
+- units
 
-### último update [20/07/2022]
+### último update [25/07/2022]
