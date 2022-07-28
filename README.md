@@ -8,5 +8,6 @@ Repositório das atividades do curso Input da codar.me
 - tipografia
 - flex
 - units
+- selectors
 
-### último update [25/07/2022]
+### último update [28/07/2022]
