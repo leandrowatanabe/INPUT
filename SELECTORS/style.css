@@ -39,3 +39,7 @@ div > p{
 #universal *{
     background: rgb(50,100,50);
 }
+
+.atributo [x] {
+    background: rgb(100,50,50);
+}
