@@ -8,52 +8,10 @@ body{
     font-size: 20px;
 }
 
-.parent-porcentage{
-    background: rgb(12,12,12);
-    height: 300px;
-    width: 350px;
+section.box{
+    background: rgb(100,100,100);
 }
-
-.children-porcentage{
-    background: rgb(125,125,125);
-    height: 33%;
-    width: 50%;
-}
-
-.parent-em{
-    background: rgb(12,12,12);
-    height: 300px;
-    width: 350px;
-    font-size: 200px;
-}
-
-.children-em{
-    background: rgb(125,125,125);
-    height: 1em;
-    width: 0.3em;
-}
-
-.parent-rem{
-    background: rgb(12,12,12);
-    height: 300px;
-    width: 350px;
-    font-size: 200px;
-}
-
-.children-rem{
-    background: rgb(125,125,125);
-    height: 1rem;
-    width: 0.3rem;
-}
-
-.parent-view{
-    background: rgb(12,12,12);
-    height: 33vh;
-    width: 10vw;
-}
-
-.children-view{
-    background: rgb(125,125,125);
-    height: 33vh;
-    width: 5vw;
+p#teste{
+    font-size: 22px;
+    font-style: italic;
 }
