@@ -3,3 +3,4 @@
 - Selecionando elementos especificos - [28/07/2022]
 - Entendendo descendant selector - [28/07/2022]
 - Entendendo child selector - [28/07/2022]
+- Entendendo sibiling selector - [28/07/2022]
