@@ -7,3 +7,4 @@
 - Entendendo universal selector - [28/07/2022]
 - Entendendo seletores de atributo - [28/07/2022]
 - Entendendo pseudo classes - [28/07/2022]
+- Entendendo pseudo elementos - [28/07/2022]
