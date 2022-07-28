@@ -43,3 +43,7 @@ div > p{
 .atributo [x] {
     background: rgb(100,50,50);
 }
+
+.state:hover {
+    background: rgb(50,50,50)
+}
