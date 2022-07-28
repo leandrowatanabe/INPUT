@@ -30,10 +30,12 @@ div > p{
 
 .teste1 div + span{
     background: rgb(100,100,150);
-    gap: 10px;
 }
 
 .teste2 div ~ span{
     background: rgb(100,100,50);
-    gap: 10px;
+}
+
+#universal *{
+    background: rgb(50,100,50);
 }
