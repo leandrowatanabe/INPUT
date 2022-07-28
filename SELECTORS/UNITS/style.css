@@ -15,3 +15,11 @@ p#teste{
     font-size: 22px;
     font-style: italic;
 }
+
+section p{
+    background: rgb(100,50,100);
+}
+
+div p{
+    background: rgb(100,100,100);
+}
