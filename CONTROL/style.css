@@ -27,3 +27,14 @@ body{
     border: 20px solid rgb(0,0,0);
     box-sizing: border-box;
 }
+
+.container-rolagem{
+    overflow: auto;
+}
+
+.rolagem-box{
+    background: rgb(19,229,100);
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+}
