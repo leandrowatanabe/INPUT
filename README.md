@@ -9,5 +9,6 @@ Repositório das atividades do curso Input da codar.me
 - flex
 - units
 - selectors
+- Além do básico
 
-### último update [28/07/2022]
+### último update [17/08/2022]
