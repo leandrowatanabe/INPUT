@@ -38,3 +38,19 @@ body{
     width: 400px;
     height: 300px;
 }
+
+.container-posicionamento{
+    background: rgb(19,229,100);    
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.posicionamento-box{
+    background: rgb(111,29,10);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
