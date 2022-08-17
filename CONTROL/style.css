@@ -54,3 +54,31 @@ body{
     top: 20px;
     left: 20px;
 }
+
+.zbox-container{
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.zbox{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.zbox1{
+    background: rgb(100,0,0);
+}
+
+.zbox2{
+    background: rgb(0,100,0);
+    top: 25px;
+    left: 25px;
+}
+
+.zbox3{
+    background: rgb(0,0,100);
+    top: 50px;
+    left: 50px;
+}
