@@ -10,5 +10,6 @@ Repositório das atividades do curso Input da codar.me
 - units
 - selectors
 - Além do básico
+- javascript
 
-### último update [17/08/2022]
+### último update [24/08/2022]
