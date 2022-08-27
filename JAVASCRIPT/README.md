@@ -5,3 +5,5 @@
 - Concatenando strings - [24/08/2022]
 - Entendendo template String - [24/08/2022]
 - Criando e acessando listas - [24/08/2022]
+- Exercícios módulo 14 - [24/08/2022]
+- Exercicios módulo 15 - [26/08/2022]

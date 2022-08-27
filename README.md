@@ -12,4 +12,4 @@ Repositório das atividades do curso Input da codar.me
 - Além do básico
 - javascript
 
-### último update [24/08/2022]
+### último update [26/08/2022]

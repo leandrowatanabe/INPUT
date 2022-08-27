@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M15 - Exercicio 4</title>
+
+    <script src="./index.js" ></script>
+    <script>
+
+    const veiculo = {
+        cor: 'Branco',
+        marca: 'Nissan',
+        modelo: 'Versa',
+        tipo: 'Passeio'
+    }
+
+    var rodas;
+
+    switch (veiculo.tipo){
+        case 'Caminhao':
+            rodas = 6
+            break
+        case 'Passeio':
+            rodas = 4
+            break
+        default:
+            rodas = 2
+    }
+
+    console.log(`O ${veiculo.modelo} de ${rodas} rodas da marca ${veiculo.marca}`)
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
