@@ -7,3 +7,4 @@
 - Criando e acessando listas - [24/08/2022]
 - Exercícios módulo 14 - [24/08/2022]
 - Exercicios módulo 15 - [26/08/2022]
+- Exercicios módulo 15 - [27/08/2022]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M16 - Exercicio 3</title>
+
+    <script src="./index.js" ></script>
+    <script>
+
+    function registro (nome, idade){
+        var ano = 2022
+        return {
+            nome: nome,
+            idade: idade,
+            anoNascimento: (ano - idade)
+        }
+    }
+  
+    function mostraRegistro(pessoa){
+        return `${pessoa.nome} tem ${pessoa.idade} pois nasceu em ${pessoa.anoNascimento}`
+    }
+
+    var pessoa = registro('Miguel', 22)
+
+    console.log(mostraRegistro(pessoa))
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
