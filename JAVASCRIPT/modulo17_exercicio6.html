@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M17 - Exercicio 6</title>
+
+    <script src="./index.js" ></script>
+    <script>
+
+    let name = 'Leandro Setsuo Watanabe'
+    const shift = 7
+    
+    let result = '';
+
+    [...name].forEach((item) => {
+        char = item.charCodeAt(0)
+        
+        if(char>= 65 && char <= 90){
+            if(char + shift > 90){
+                while( char + shift > 90){
+                    char -= 26;
+                }
+            }
+            char = char + shift;
+        }else if(char>= 97 && char <= 122){
+            if(char + shift > 122){
+                while( char + shift > 122){
+                    char -= 26;
+                }
+            }
+            char = char + shift;
+        };
+        result += String.fromCodePoint(char)
+    })
+
+    console.log(result)
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
